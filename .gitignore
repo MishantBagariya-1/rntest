@@ -32,7 +32,7 @@ local.properties
 *.hprof
 
 #generate folder in main/com/app_name
-android/app/src/main/java/com/zaroorappreboot/generated/
+app/src/main/java/com/zaroorappreboot/generated/
 
 # node.js
 #
